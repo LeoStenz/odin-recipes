@@ -1,3 +1,3 @@
 # odin-recipes
 
-First small HTML(only) project within the TOP curriculum
+First small HTML and CSS project within the TOP curriculum
